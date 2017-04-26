@@ -1,0 +1,10 @@
+__pycache__/
+mysite/
+myvenv/
+dashboard
+db.sqlite3
+manage.py
+*.txt
+config.py
+config_1.py
+config_2.py
